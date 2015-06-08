@@ -1,4 +1,5 @@
 @import url(font-awesome.min.css);
+@font-face { font-family: "ComicSans"; src: url(fonts/ComicSans.ttf);}
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
 
 /*
@@ -28,7 +29,7 @@
 
 	body, input, select, textarea {
 		color: #a2a2a2;
-		font-family: cursive;
+		font-family: ComicSans;
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
